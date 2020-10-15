@@ -50,7 +50,7 @@ const SignIn: React.FC = () => {
           <Input
             name="password"
             icon={FiLock}
-            type="passaword"
+            type="password"
             placeholder="Senha"
           />
 
